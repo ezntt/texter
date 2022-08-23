@@ -6,7 +6,7 @@ msg = input("Mensagem: ")
 n = int(input("Quantidade: "))
 
 # contador
-counter = 3
+counter = 5
 
 for i in range(0, counter):
     print(f"{i + 1}...")
